@@ -1,0 +1,22 @@
+#line-break { /* # id tag selection */
+  margin-top: 30px;
+  margin-bottom: 30px;
+  height: 15px;
+  width: 900px;
+  background-image:url(img/hr-img.png);
+}
+body{
+  width: 900px;
+  margin:0 auto;
+
+}
+
+nav{
+  display:flex; /* nav would have been a block level element, everything on top of each other, instead everything is next to each other */
+  margin:20px 0;
+}
+
+#header-logo{
+  margin-right: 10px;
+}
+

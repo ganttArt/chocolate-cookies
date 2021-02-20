@@ -20,3 +20,38 @@ nav{
   margin-right: 10px;
 }
 
+#nav-right {
+  float: right;
+}
+
+#more-right {
+  margin-right: 300px;
+}
+
+#paper-list {
+  z-index: -1;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#ingredients {
+  position: relative;
+}
+
+form {
+  z-index: 1;
+  position: relative;
+  left: 0px;
+  top: 0px;
+}
+
+.column-one {
+  float: left;
+  width: 50%;
+}
+
+.column-two {
+  float: right;
+  width: 50%;
+}
